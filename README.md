@@ -87,11 +87,16 @@ Each notebook:
 The v7person.ipynb includes live counting display on the video frame.
 
 ## 🖼️ Screenshots
-People Detection (YOLOv7)
+### People Detection (YOLOv5,YOLOv7,YOLOv8)
+![People Detection Video](assets/people-demo-vid.mp4)
+![People Detection Image](assets/people-demo.png)
 
-Pothole Detection
+### Pothole Detection
+![Pothole Video](assets/pothole-vid-demo.mp4)
+![Pothole Image](assets/pothole-demo.png)
 
-Car Counting
+### Car Counting
+![Car Count Image](assets/car-count-demo.png)
 
 ## 🚀 Future Enhancements
 
