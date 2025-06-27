@@ -88,11 +88,11 @@ The v7person.ipynb includes live counting display on the video frame.
 
 ## 🖼️ Screenshots
 ### People Detection (YOLOv5,YOLOv7,YOLOv8)
-![People Detection Video](assets/people-demo-vid.mp4)
+![People Detection Video](assets/people-demo-vid.gif)
 ![People Detection Image](assets/people-demo.png)
 
 ### Pothole Detection
-![Pothole Video](assets/pothole-vid-demo.mp4)
+![Pothole Video](assets/pothole-vid-demo.gif)
 ![Pothole Image](assets/pothole-demo.png)
 
 ### Car Counting
